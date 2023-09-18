@@ -1,0 +1,4 @@
+(executable
+ (public_name ircw)
+ (name main)
+ (libraries libircw))

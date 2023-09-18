@@ -1,0 +1,3 @@
+(test
+ (name ircw)
+ (libraries alcotest libircw))
