@@ -1,2 +1,4 @@
 (library
- (name libircw))
+ (name libircw)
+ (modules_without_implementation irc_command)
+ (flags (:standard -w -67)))
