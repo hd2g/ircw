@@ -1,4 +1,4 @@
 (library
  (name libircw)
- (modules_without_implementation irc_command)
+ (modules_without_implementation irc_command Services__chatwork)
  (flags (:standard -w -67)))
